@@ -1,4 +1,4 @@
-package com.ps.attendance.util;
+package com.fyistream.discovery.util;
 
 import java.text.DateFormat;
 import java.text.ParseException;

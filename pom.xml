@@ -8,8 +8,8 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.codedecode</groupId>
-	<artifactId>KafkaDemo</artifactId>
+	<groupId>com.fyistream</groupId>
+	<artifactId>DiscoveryServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>KafkaDemo</name>
 	<description>Demo project for Kafka implementation</description>

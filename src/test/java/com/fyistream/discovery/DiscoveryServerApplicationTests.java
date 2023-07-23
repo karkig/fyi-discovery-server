@@ -1,10 +1,10 @@
-package com.ps.attendance;
+package com.fyistream.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PsGatewayApplicationTests {
+class DiscoveryServerApplicationTests {
 
 	@Test
 	void contextLoads() {

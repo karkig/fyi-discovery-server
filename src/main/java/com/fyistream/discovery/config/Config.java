@@ -1,4 +1,4 @@
-package com.ps.attendance.config;
+package com.fyistream.discovery.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Configurable;
