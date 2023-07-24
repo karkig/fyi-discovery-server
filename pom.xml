@@ -11,7 +11,7 @@
 	<groupId>com.fyistream</groupId>
 	<artifactId>DiscoveryServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>KafkaDemo</name>
+	<name>server</name>
 	<description>Demo project for Kafka implementation</description>
 	<properties>
 		<java.version>1.9</java.version>
